@@ -1,21 +1,21 @@
 # Minkz
 
-I build dependable software for complex operational work—systems where state, evidence, exceptions, and human judgment need to remain visible.
+I run **BXR**.
 
-Currently building **BXR Systems**, focused on turning messy workflows into clear, inspectable software and applying automation only where it creates a bounded, reliable advantage.
+BXR is client-specific AI, automation, and custom tools — not a chatbot product, and not a one-size-fits-all agency.
 
-## Current focus
+Most of the work stays private on purpose. I talk with people in Discord, keep a single source of truth in files, and only automate what we can actually check.
 
-- Operational state and workflow design
-- Evidence, exceptions, and human-in-the-loop systems
-- Bounded AI automation
-- Interfaces that explain system behavior
+The public engine I build on is [Hermes Agent](https://github.com/NousResearch/hermes-agent).
 
-## Working principles
+## Right now
 
-- Evidence before confidence.
-- Make state, boundaries, and exceptions visible.
-- Automate repeatable work without hiding consequential decisions.
-- Build strong foundations before adding intelligent layers.
+- One business at a time
+- No fake case studies
+- Public repos only when something is useful, self-contained, and safe to share
 
-Most current work is private. Public components will appear here when they are useful, self-contained, and safe to share.
+## How I work
+
+- Evidence before confidence
+- Make the current state obvious; don’t stack old “current” notes
+- Automate repeatable work without hiding the decisions that still need a human
