@@ -1,7 +1,7 @@
 # Minkz
 
-I like building things that make messy work easier to see and finish.
+I build things people can actually use.
 
-These days that’s **BXR** — custom AI and automation for real businesses, one at a time. Most of it stays private.
+Right now that’s **BXR** — custom AI and tools for real businesses.
 
-I build on [Hermes Agent](https://github.com/NousResearch/hermes-agent).
+Most of the work stays private. That’s on purpose.
